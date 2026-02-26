@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Category](https://img.shields.io/badge/Status-Maintained-green.svg)
 
-本仓库旨在分享在 HZCU 计算机学院就读期间的课程经验。
+本仓库旨在分享在 HZCU 计算机学院就读期间的部分课程经验。
 
 如果你想让你的绩点高一点，这个仓库的内容也许能帮到你。
 
